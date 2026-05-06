@@ -82,7 +82,7 @@
 | 🐍 | **Python** | `◉◉○○○○○○○○` | just starting |
 | 🤖 | **ML Theory** | `◉○○○○○○○○○` | reading phase |
 | 🐙 | **Git & GitHub** | `◉◉○○○○○○○○` | figuring it out |
-| 📓 | **Jupyter / Colab** | `◉○○○○○○○○○` | next up |
+| 📓 | **Jupyter / Colab** | `○○○○○○○○○○` | next up |
 | 📊 | **NumPy / Pandas** | `◎○○○○○○○○○` | learning soon |
 | 🧠 | **Scikit-learn** | `○○○○○○○○○○` | learning soon |
 | 🔥 | **TensorFlow** | `○○○○○○○○○○` | learning soon |
