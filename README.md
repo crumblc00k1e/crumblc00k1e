@@ -72,11 +72,6 @@
 | 🐍 | **Python** | `◉◉○○○○○○○○` | just starting |
 | 🤖 | **ML Theory** | `◉○○○○○○○○○` | reading phase |
 | 🐙 | **Git & GitHub** | `◉◉○○○○○○○○` | figuring it out |
-| 📓 | **Jupyter / Colab** | `○○○○○○○○○○` | learning soon |
-| 📊 | **NumPy / Pandas** | `○○○○○○○○○○` | learning soon |
-| 🧠 | **Scikit-learn** | `○○○○○○○○○○` | learning soon |
-| 🔥 | **TensorFlow** | `○○○○○○○○○○` | learning soon |
-| 💜 | **PyTorch** | `○○○○○○○○○○` | learning soon |
 
 </div>
 
@@ -168,7 +163,5 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a0533,100:0d0d0d&height=120&section=footer&animation=fadeIn"/>
-
-<img src="https://komarev.com/ghpvc/?username=crumblc00k1e&style=flat-square&color=1a0533&labelColor=0d0020&label=visitors"/>
 
 </div>
