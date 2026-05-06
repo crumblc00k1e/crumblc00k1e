@@ -94,8 +94,6 @@
 　　　　　in progress, ETA Week 2　.　𝄞
 
 
-> *follow along — this section won't stay empty for long* 👀
-
 </div>
 
 <br>
