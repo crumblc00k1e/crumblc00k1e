@@ -53,16 +53,6 @@
 
 <a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-learning-1a0533?style=for-the-badge&logo=numpy&logoColor=d4aaff&labelColor=0d0020"/></a> <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-learning-1a0533?style=for-the-badge&logo=pandas&logoColor=d4aaff&labelColor=0d0020"/></a>
 
-<br>
-
-<a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-learning%20soon-2a0a3a?style=for-the-badge&logo=python&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/Scikit--learn-learning%20soon-2a0a3a?style=for-the-badge&logo=scikitlearn&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-learning%20soon-2a0a3a?style=for-the-badge&logo=tensorflow&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-learning%20soon-2a0a3a?style=for-the-badge&logo=pytorch&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://keras.io"><img src="https://img.shields.io/badge/Keras-learning%20soon-2a0a3a?style=for-the-badge&logo=keras&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-learning%20soon-2a0a3a?style=for-the-badge&logo=opencv&logoColor=7a5fa0&labelColor=150025"/></a>
-
-> **──★ ˙ app dev !!**
-
-<br>
-
-<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-learning%20soon-2a0a3a?style=for-the-badge&logo=flutter&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-learning%20soon-2a0a3a?style=for-the-badge&logo=dart&logoColor=7a5fa0&labelColor=150025"/></a>
-
 </div>
 
 <br>
