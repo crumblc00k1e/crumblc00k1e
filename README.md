@@ -89,9 +89,9 @@
 
 　　　⑅　　　₊　　˙　　**project 001**　﹡!﹡
 
-　　　coming soon　·　planning phase　·　ideas brewing　:　🚀
+　　　　·　Smart Calculator　:　🚀
 
-　　　　　day 1　·　foundation first　.　𝄞
+　　　　　in progress, ETA Week 2　.　𝄞
 
 
 > *follow along — this section won't stay empty for long* 👀
