@@ -83,7 +83,7 @@
 | 🤖 | **ML Theory** | `◉○○○○○○○○○` | reading phase |
 | 🐙 | **Git & GitHub** | `◉◉○○○○○○○○` | figuring it out |
 | 📓 | **Jupyter / Colab** | `◉○○○○○○○○○` | next up |
-| 📊 | **NumPy / Pandas** | `◎○○○○○○○○○` | just touched it |
+| 📊 | **NumPy / Pandas** | `◎○○○○○○○○○` | learning soon |
 | 🧠 | **Scikit-learn** | `○○○○○○○○○○` | learning soon |
 | 🔥 | **TensorFlow** | `○○○○○○○○○○` | learning soon |
 | 💜 | **PyTorch** | `○○○○○○○○○○` | learning soon |
@@ -161,7 +161,7 @@
 
 <br>
 
-<a href="mailto:crumblc00k1eml@gmail.com"><img src="https://img.shields.io/badge/Gmail-reach%20out-1a0533?style=for-the-badge&logo=gmail&logoColor=d4aaff&labelColor=0d0020"/></a>
+<a href="mailto:labdhicodez@gmail.com"><img src="https://img.shields.io/badge/Gmail-reach%20out-1a0533?style=for-the-badge&logo=gmail&logoColor=d4aaff&labelColor=0d0020"/></a>
 
 <br><br>
 
@@ -179,6 +179,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a0533,100:0d0d0d&height=120&section=footer&animation=fadeIn"/>
 
-<img src="https://komarev.com/ghpvc/?username=c00kiebuilds&style=flat-square&color=1a0533&labelColor=0d0020&label=visitors"/>
+<img src="https://komarev.com/ghpvc/?username=crumblc00k1e&style=flat-square&color=1a0533&labelColor=0d0020&label=visitors"/>
 
 </div>
