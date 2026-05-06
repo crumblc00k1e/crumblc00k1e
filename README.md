@@ -154,7 +154,7 @@
 
 　　　✿𓏼　goodbye!　𖦹
 
-　　　⑅　this profile updates weekly as I learn.　·　started April 2026 from 0 !
+　　　⑅　this profile updates weekly as I learn.　·　started May 2026 from 0 !
 
 ---
 
